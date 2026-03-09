@@ -21,3 +21,8 @@
 ### File Name
 - `이니셜_문제 번호.java`
 - 예시) SY_1001.java
+
+## 커리큘럼
+
+### 1주차: [브루트포스, 구현, 시뮬레이션](https://www.acmicpc.net/group/practice/view/25176/1)
+### 2주차: [정렬]()
